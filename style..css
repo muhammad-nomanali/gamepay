@@ -199,6 +199,12 @@ width: 100%;
   .about-container{
     padding-top: 40px;
   }
+  .desender{
+    width: 40%;
+    float: right;
+    position: relative;
+    top: -20px;
+  }
 }
 
 /* howit-work */
@@ -243,7 +249,7 @@ width: 80%;
  
 }
 .diamond-img{
-  width: 100%;
+  width: 10%;
   display: flex;
   justify-content: right;
 }
