@@ -12,6 +12,7 @@
   margin-top: 50px;
   backdrop-filter: blur(12px);
   background-color: rgba(0, 128, 0, 0.233);
+  padding-right: 20px;
 }
 .navbar-brand{
   padding-left: 30px;
