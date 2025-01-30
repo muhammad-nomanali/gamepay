@@ -354,3 +354,14 @@ width: 80%;
 .gem01 img{
   width: 100%;
 }
+@media screen and (max-width:750px) {
+  .footer-por{
+  justify-content: center;
+  padding-bottom: 10px;
+  }
+  .foot-para{
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+  }
+}
