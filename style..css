@@ -221,12 +221,16 @@ width: 100%;
   background-color: #803B0F;
   color: #85C910;
   text-transform: capitalize;
-  width: 40%;
+  width: 56%;
   border-radius: 10px 30px 0px 50px;
   padding-left: 20px;
   margin: 0;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .cards p{
+  height: 15vh;
   margin: 0;
   background-color: #B6EE5E;
   color: #105318;
