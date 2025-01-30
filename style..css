@@ -91,6 +91,14 @@ text-decoration: none;
   .charcter img{
     width: 100%;
   }
+  @media screen and (max-width:750px) {
+    .charcter{
+      width: 20%;
+    margin: 0 auto;
+    position: relative;
+    top: -40px;
+    }
+  }
   /* main bagroung */
   .main-baroung{
     background-image: url(./assects/_bg\ \(2\).png);
