@@ -97,7 +97,7 @@ text-decoration: none;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-   padding-bottom: 30px;
+
     overflow: hidden;
     background-color: greenyellow;
   }
@@ -338,5 +338,15 @@ width: 80%;
   width: 20%;
 }
 .footer-img img{
+  width: 100%;
+}
+.gem01{
+  width: 20%;
+  float: right;
+  position: relative;
+  top: -200px;
+  
+}
+.gem01 img{
   width: 100%;
 }
