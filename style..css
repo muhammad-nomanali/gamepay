@@ -311,6 +311,8 @@ background-image: url(./assects/_bg\ \(1\).png);
 }
 .community-icon a:focus{
   background-color: red;
+ 
+  padding: 10px;
 }
 .community-img img{
   width: 100%;
