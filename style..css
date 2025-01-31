@@ -65,6 +65,20 @@ font-size: 22px;
 color: white;
 text-decoration: none;
   }
+  .navbar-btn button:hover{
+    padding: 6px 30px;
+    background-color: white;
+    border-radius: 50px;
+    border: none;
+    color: orange;
+  }
+  .navbar-btn button:hover a{
+    text-transform: capitalize;
+    font-size: 22px;
+    
+    color: orange;
+    text-decoration: none;
+      }
   @media screen and (max-width:600px) {
 .navbar-cont{
   padding-bottom: 30px;
@@ -284,7 +298,7 @@ width: 80%;
   }
 }
 .community{
-  background-image: url(./assects/_bg\ \(1\).png);
+background-image: url(./assects/_bg\ \(1\).png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -294,6 +308,9 @@ width: 80%;
   width: 50%;
   margin: 0 auto;
   padding-top: 60px;
+}
+.community-icon a:focus{
+  background-color: red;
 }
 .community-img img{
   width: 100%;
